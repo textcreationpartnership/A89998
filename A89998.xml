@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New news from the Old Exchange: or The common-vvealth of vertous laides lively decyphered: being a modest answer to an immodest scurrulous phamphlet, wherein are notoriously scandalized many noble persons, no lesse truly honourable for their effulgent vertues, then their severall respective titles, in a poysonous phamphlet, intituled, Newes from the New-Exchange. Not printed in the yeare of women without grace, but in that yeare when the author of it with thousands were, manifestly have shewed themselves to be almost gracelesse.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89998</idno>
+            <idno type="STC">Wing N687</idno>
+            <idno type="STC">Thomason E595_6</idno>
+            <idno type="STC">ESTC R206930</idno>
+            <idno type="EEBO-CITATION">99866019</idno>
+            <idno type="PROQUEST">99866019</idno>
+            <idno type="VID">165569</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89998)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165569)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 91:E595[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New news from the Old Exchange: or The common-vvealth of vertous laides lively decyphered: being a modest answer to an immodest scurrulous phamphlet, wherein are notoriously scandalized many noble persons, no lesse truly honourable for their effulgent vertues, then their severall respective titles, in a poysonous phamphlet, intituled, Newes from the New-Exchange. Not printed in the yeare of women without grace, but in that yeare when the author of it with thousands were, manifestly have shewed themselves to be almost gracelesse.</title>
+               </titleStmt>
+               <extent>[2], 8, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The "m" of "phamphlet" in line 14 of title page is inverted.</note>
+                  <note>The final leaf contains a note to the reader.</note>
+                  <note>Annotation on Thomason copy: "16 of March 1649".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Libel and slander --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165569:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 100 -->
+            <p>New News from the Old EXCHANGE.</p>
+            <p>
+               <hi>OR</hi> The COMMON-VVEALTH of Vertous LAIDES lively decyphered: BEING A modeſt Anſwer to an immodeſt ſcurrulous Phamphlet, wherein are notoriouſly ſcandalized many Noble Perſons, no leſſe truly hon<g ref="char:EOLhyphen"/>ourable for their effulgent Vertues, then their ſeverall reſpective Titles, in a poyſonous Phamphlet, Intituled.</p>
+            <p>Newes from the New-Exchange.</p>
+            <p>Not Printed in the yeare of Women without Grace, but in that yeare when the Author of it with thouſands more, manifeſt<g ref="char:EOLhyphen"/>ly have ſhewed themſelves to be almoſt graceleſſe.</p>
+            <q>Virtus, poſt funera Vivet.</q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165569:2"/>
+            <!-- PDF PAGE 101 -->
+            <pb n="1" facs="tcp:165569:2"/>
+            <!-- PDF PAGE 101 -->
+            <head>New News from the Old EXECHANG.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here was once a time in <hi>England,</hi> when when the Author, of any ſcurrulous, or ſcandalous Pamphlet was ſoundly laſht, for laſhing at others; But thoſe <hi>Nector</hi> years have ſeemed theſe many yeares, (as if they did abhor the ſtrangeneſſe of our proceedings) to become meere ſtrangers unto us; and now too many, (more is the pitty) are become too Lawleſſe, O Times! O Manners! this is a ſtrange, yet fatall alteration, when the Common ſhoare arrogates un<g ref="char:EOLhyphen"/>to its ſelfe, dominion, over the more noble Channells, and the Chryſtall Rivers are envenom'd, if not totally poyſon'd with its ſtinking noyſomeneſſe; when Vice is deemed a Ver<g ref="char:EOLhyphen"/>tue, and Vertue a Vice: That <hi>Quondam</hi> Oracle of true Knowledge, (who lived in happier times, the ever famons and eternally renowned Sir <hi>Thomas Moore</hi>) was often wont to make this, or the like golden expreſſion, <hi>That it was highly commendable to be good in a good age, but it was im<g ref="char:EOLhyphen"/>comparably admirable to be good in a bad.</hi>
+            </p>
+            <p>How ever then Malice calumniates the Nobler, and He<g ref="char:EOLhyphen"/>roike ſpirits, yet canded Innocency is ſuch gallant Armour
+<pb n="2" facs="tcp:165569:3"/>
+               <!-- PDF PAGE 102 -->of proofe, that the darts of helliſh envie, can no way pene<g ref="char:EOLhyphen"/>trate, but its glorious ſplendor, (howſoever obſcured by calumnie) like the Radiant Sun (obfuſcated by ſome pro<g ref="char:EOLhyphen"/>digious Cloud) ſtill ſeemes more amorous to each ſpecta<g ref="char:EOLhyphen"/>tor.</p>
+            <p>And ſince this is a truth undenyable, I doubt not them, but in ſome happy meaſure, lively to adumbrate many of their Vertues, whom this unmanly Author hath ſo abuſive<g ref="char:EOLhyphen"/>ly ſtigmatized, as guilty of ſo many notorious (or at leaſt grand humane faylings) as call not onely the perſons there<g ref="char:EOLhyphen"/>in mentioned, but alſo their noble Iſſue, (however lawfully begotten) to a ſtrange, and dubious account; and ſeemes to ſpeake Baſtardy to the latter Births, no leſſe then to the formers honour; nay, which may moſt juſtly amaze each knowing and impartiall Reader, the Author, (as if he were borne to be a Fier-brand on earth, and had devoted him<g ref="char:EOLhyphen"/>ſelfe a ſworne Servant to that inferior Prince who rules the lower Region, (and never had more power, in this ſuperior Orbe) as if he would ſwell untill he burſt againe, with all infernall, and implacable malice; ſpits not onely his venome againſt the living, but which ſtrikes horrour and juſt a<g ref="char:EOLhyphen"/>mazement into my inward boſome thoughts, ſpeakes fow<g ref="char:EOLhyphen"/>ly of the dead.</p>
+            <p>Good God! what an unexpected exchange of all things doe we live to ſee? Time was when an honourable and ſtrict account was made after all Varlots, as caſt but the leaſt <hi>Odium</hi> or <hi>Opprobium</hi> upon any noble perſon, and when a due puniſhment ſeconded it with a juſt carreire of Revenge, but now, <hi>who is ſo blind as will not ſee how times are altered.</hi>
+            </p>
+            <q>
+               <l>Each rusticke Boare, and ſilly Wight,</l>
+               <l>Is now become a Lampe of Light.</l>
+            </q>
+            <p>But I ſhall not hint no more on the times, onely from
+<pb n="3" facs="tcp:165569:3"/>
+               <!-- PDF PAGE 102 -->my heart Cordiall wiſh, that their be a timely amendment ere's amiſſe, and ſo I change my Sceane from the new Ex<g ref="char:EOLhyphen"/>change to the old.</p>
+            <p>I ſhall humbly crave leave, being an unfained Lover of true Vertue and Nobility (in ſome happy meaſure) to de<g ref="char:EOLhyphen"/>lincate or charanterice out their knowne Vertues, rather then the leaſt to ſhadow out any of their naturall faylings, of whom I now (God willing) intent to write.</p>
+            <p>Sure I am, 'tis the golden rule of Charity, charitably to conſter all things; and therefore, though the height of my lawfull ambition be not to vindicate all, as deeming that they are all fault leſſe, or indeed that any one can be ſo, for they have all their faylings, being at the beſt but poore frayle Mortalls; yet my juſt emulation ſhall be unfeinedly to adumbrate many of their <hi>Vertues,</hi> of whom I have hard obſerved, and am able to ſpeake nothing; and as I ſhall al<g ref="char:EOLhyphen"/>together decline ſcurrulous expreſſions on the one part, for I ſhall totally abandon flatterie on the other.</p>
+            <p>Now leaſt I ſhould make the <hi>Purcludium,</hi> like the Gates of <hi>Mindas,</hi> bigger then the City, (ſince methode, facillitates, and graces all things) to avoyde prolixety, I ſhall methodi<g ref="char:EOLhyphen"/>cally proceed as followeth.</p>
+            <p>Firſt, to decypher what the Author of that poyſonous Pamphlet entituled, <hi>New newes from the New-Exchange,</hi> muſt neceſſary be.</p>
+            <p>Secondly, the danger that may accrew to many noble perſons, whoſe reputations are therein called to queſtion, by reaſon of that ftivolous and ſcandalous aſperſions, of that unknown Author.</p>
+            <p>Thirdly, I ſhall endeavour to make an unhappy diſco<g ref="char:EOLhyphen"/>very of the hatitude of his diabollicall malice.</p>
+            <p>Fourthly, to manifeſt in part, the gallantry, and noble comportment of many therein mentioned.</p>
+            <p>Fiftly, and laſtly, to declare and manifeſt the ground and reaſon that moved the Author to their juſt <hi>Vindication.</hi>
+            </p>
+            <div type="part">
+               <pb n="4" facs="tcp:165569:4"/>
+               <!-- PDF PAGE 103 -->
+               <head>Theſe are the chiefe heads to avoid prolixitie.</head>
+               <p>Firſt, as concerning the Author, I ſhould ſwerve from truth, and much wrong my owne judgement if I ſhould deeme him a Man, ſince he plainly manifeſt himſelfe a Beaſt, by his inhumane actions; no ſure, he is ſome Monſter of Nature, or Impe of Hell, which the Devill hath ſet looſe on meere purpoſe to breed an univerſall irrecocilable vari<g ref="char:EOLhyphen"/>ance in the hearts of the moſt noble ſpirits: were he a Man, he could not ſure ſo farre have degenerated from mankind, as contraty to the bounds of Piety, Modeſty, and Reaſon, have caſt ſo unparralled defamation upon ſo many pious, vertuous, and noble hearts.</p>
+               <p>Not to leave him yet, who hath long ſince left all good<g ref="char:EOLhyphen"/>neſſe, I ſhall thus characterice him out.</p>
+               <p>Firſt, aſſerting him as one who is a ſworne profeſt ene<g ref="char:EOLhyphen"/>my both to Vertue, Piety, and true Nobility; elſe he could not with ſuch frontleſſe impudency have caſt ſo many groſſe aſperſions upon ſo many knowne Lovers, and happy Cheri<g ref="char:EOLhyphen"/>ſhers of true <hi>Vertue,</hi> (I ſhall hereafter inſerte a Liſt of their ſeverall names,</p>
+               <p>Secondly, he is one that by his owne writings, declares himſelfe to have monopolized all Ribauldry and Bawdery: Good God, what a ſtrange and unheard of concatenation of ſpurious Language hath hee compiled together in his <hi>New Exchange;</hi> the Devill ſure was at his elbow when firſt invented it, for when firſt I peruſed it, it made my eyes to water, my hands to ſnake, my heart to tremble, my ſenſes aſtoniſhed with a juſt amazement, and finally, it almoſt ſtroake an univerſall Palſey through my hole microcoſme; in a word, me thoughts Hell it ſelfe could not, be fuller fraught with more diabollicall expreſſions.</p>
+               <p>Thirdly, and laſtly, (to give the Devill his due) I am con<g ref="char:EOLhyphen"/>fident
+<pb n="5" facs="tcp:165569:4"/>
+                  <!-- PDF PAGE 103 -->for his notorious parts, he juſtly deſerves to be made grand Secretary to all the Pimps in <hi>Europe,</hi> for he is un<g ref="char:EOLhyphen"/>happily acquainted with all their clandeſtine proceedings; and I am verily perſwaded, if the Devill himſelfe did want one, he would ſoone prefer him then any other, as being maturely ripe, for his devilſhips ſervice; to whom ('tis too too much to be feered) hee hath already devoted himſelfe. Secondly, as touching the danger that may accrew to ma<g ref="char:EOLhyphen"/>ny noble perſons therein mentioned, no rationall Creature cannot but conclude, that it is ſuperlatively ſcandalous to lay the leaſt aſperſion upon any perſon of the leaſt knowne integrity, much more them, upon ſuch as are no leſſe hon<g ref="char:EOLhyphen"/>ourable by deſcent then by their dayly actions.</p>
+               <p>The World (God knowes) is too too apt to believe the worſt, and a defamation once caſt abroad is not ſo ſoone called in; bad Newes flyes with ſwift Wings, and ſoone reaches the remoteſt parts.</p>
+               <p>It is a brave Reſolution of the gallant <hi>Spaniard,</hi> that he will hazard his life to defend and maintaine his Honour, accounting it truely more happy honourable ſo to doe, then to purchaſe his livelyhood, to breath out the remain<g ref="char:EOLhyphen"/>der of his dayes in baſe ſordid diſgrace.</p>
+               <p>I wiſh our Nobles would ſpeake themſelves truely noble in this gallantrey of Reſolution, (ſure then I am) there would not be ſo many ignoble Crimes ever and anone per<g ref="char:EOLhyphen"/>petrated to the juſt ſcandall both of themſelves, and their Progenitours; and having thus hinted unto them this Caution, I ſhall paſſe to the third Clauſe to make an unhappy diſcovery of the Latitude of his Diabolicall Malice.</p>
+               <p>And now me thinkes I am launching into the deepe, and in the very contemplation of his unſatible vaſt Malice, even almoſt ſtroake into a juſt and wonderfull amazement, to thinke how univerſally hee caſts the Darts of his poy<g ref="char:EOLhyphen"/>ſonous, envenom'd, and all miſchievous ſpleene, that no Age, Sex, nor Degree of Perſons can avoid his fury, but
+<pb n="6" facs="tcp:165569:5"/>
+                  <!-- PDF PAGE 104 -->in as much as in him lyeth, he would ſtaine them all, and make them altogether famous for their infamie; modeſty prohibits me from making the leaſt repetition of his ſcanda-Ribauldry, which were enough to ſpeake contagion to the chaſteſt hearer; I will therefore decline that, and give you a Liſt of thoſe perſons of honour, at whom his implacable Malice hath ſpit his venome: and ſo paſſe to the fourth par<g ref="char:EOLhyphen"/>ticular, to manifeſt in part the gallentry and noble deport<g ref="char:EOLhyphen"/>ment of many therein mentioned; whoſe Names I ſhall ſet downe in order as he hath formerly named them, now the two firſt are theſe two, who as he impudently affirmes, have undergone all Offices from a Corporall to a Collo<g ref="char:EOLhyphen"/>nells place.</p>
+               <q>
+                  <l>Thus Monster-like, as truly he may ſay,</l>
+                  <l>Light cauſeth Darkeneſſe, Darkeneſſe makes the day.</l>
+               </q>
+               <p>For in the fore-front of his diabollicall <hi>New Exchange,</hi> he firſt mentioneth the Right Honourable the Counteſſe of <hi>Kent,</hi> as alſo the good old Counteſſe of <hi>Exeter,</hi> whom he ſtiles not good, becauſe good and he are ſure become great ſtrangers; both them his malice pleaſeth to nomi<g ref="char:EOLhyphen"/>nate, for theſe two ought to lead the Vanne of his Deſign<g ref="char:EOLhyphen"/>ment; next, (to avoid tedious diſcourſe) I ſhall only men<g ref="char:EOLhyphen"/>tion thoſe of whom I have ever heard a very honourable report of, ſilincing to ſpeake any thing of them to I am a meere ſtranger; of whom my Charity ſhall ever judge the beſt, and if I be miſtaken, ſure I am, that I am only guilty of a pious errour.</p>
+               <p>Next to the two former occurres the Right Honoura<g ref="char:EOLhyphen"/>ble the Counteſſe of <hi>Carliſle, Peterborough, Devon-ſhire, Salisbury, Rutland,</hi> then that ever truly honourable Lady, the Marchioneſſe of <hi>Wincheſter,</hi> whoſe Pietie and Patience in all her ſufferings, ſpeakes her ſecond unto none in Ver<g ref="char:EOLhyphen"/>tues and Academy; then the Counteſſe of <hi>Bath,</hi> and alſo that noble Lady <hi>Savill,</hi> alias <hi>Suſſex,</hi> who is onely envied
+<pb n="7" facs="tcp:165569:5"/>
+                  <!-- PDF PAGE 104 -->for her noble and affable Comportment; not long after, the Counteſſe of <hi>Newport,</hi> with divers others, of which if I ſhould ſpeake any thing, being I know them not, it might ſeeme to ſpeake flattery, which I altogether abomi<g ref="char:EOLhyphen"/>nate.</p>
+               <p>Note Reader, that the Perſons whom I have formerly mentioned, are undoubtly ſuch as are <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o leſſe Honourable for their reſplendent Vertues, then their ſeverall Titles, and to them eſpecially I humbly dedicate theſe my weake yet willing endeavours; as alſo, to all others who are cor<g ref="char:EOLhyphen"/>diall Lovers of true Vertue, which indeed is true Nobility: for their ſakes onely, I write this <hi>Old Exchange,</hi> (which is the fifth clauſe) for I may well terme Vertue to be of the eldeſt Familie, ſince ſhe was of the firſt diſcent: God made all things good, and it is onely <hi>Satans</hi> policy, that hath cauſed ſo ſtrange a metamorphoſes.</p>
+               <p>To ſumme up all in a word, I ſhall brie<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly give you this Golden Character, if to be exemplarily religious, liberall, affable, and of a generous noble comportment, and of a high and gallant Reſolution, juſtly deſerve to bee calumniated, then all thoſe whom I have formerly nominated, without the leaſt ſtaine, or derogation to their Honour, may plead high guiltineſſe, for they are high guilty of theſe, and for no other Crimes then ſuch as theſe are, this unknown baſe <hi>Varlet,</hi> by the Devills eſpeciall inſtigations, (who is the grand Compoſier of all miſchiefe) ſpits his poyſonous ven<g ref="char:EOLhyphen"/>ome in all baſe expreſſions of Ribauldry, and ſcurroulous Language againſt them; but as Fire and Water, Light and Darkeneſſe, ſo Vertue and Vice, are incompatible Com<g ref="char:EOLhyphen"/>panions.</p>
+               <p>Fifthly, as touching the motion that induced me to this their juſt <hi>Vindication,</hi> it was no other, (nor could it be any more powerfull) then (in as much as in me lyeth) to vin<g ref="char:EOLhyphen"/>dicate their Honours, whom I ever knew to be true Lovers and continuall Cheriſhers of <hi>Vertue;</hi> Witneſſe their daily Piety to GOD, and their accuſtomed and well-knowne
+<pb n="8" facs="tcp:165569:6"/>
+                  <!-- PDF PAGE 105 -->Charity to all good Chriſtians, that are droven (through theſe ſad diſtractions of theſe deplorable times) into a La<g ref="char:EOLhyphen"/>mentable, and moſt miſerable condition.</p>
+               <p>To conclude by way of Exhortation to all, and a word or two of the Author, I ſhall deſire every noble heart to follow the example of a pious learned, religion, grave old Father, who when he came where all things were out of order, would thus charitably cenſure of the Owners, <hi>Good God one may eaſily perceive how great care theſe people take for their Soules, they mind thoſe eternall things ſo little,</hi> and on the contrary if he found them well placed in order, hee would againe ſay, <hi>Good God, ſee what good people are theſe, how great a care they take for their ſoules, that ſo well order their eternall affaires ſtill charitably judging the beſt.</hi>
+               </p>
+               <p>Laſtly, as touching the prodigious Author of the <hi>New-Exchange,</hi> not ſwarving from the former Rule, for he ſpeakt himſelfe no otherwiſe in all his actions, I may truly ſay as followeth.</p>
+               <q>
+                  <l>If ever Miſcreant from Hell,</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>pon the Vniverſe, did dwell,</l>
+                  <l>Whoſe ſole, and full, and baſe intent,</l>
+                  <l>Was upon earth to cauſe diſcent,</l>
+                  <l>Then without fraud, Ile boldly ſay,</l>
+                  <l>This Author doth deſerve the day.</l>
+               </q>
+            </div>
+            <div type="to_the_reader">
+               <pb facs="tcp:165569:6"/>
+               <!-- PDF PAGE 105 -->
+               <p>Note Reader, that there is a foliſh nonſenſicall, and moſt ridiculous Phamphlet, lately written by one <hi>T. B.</hi> Entituled — by way of vindication of ſo many hon<g ref="char:EOLhyphen"/>ourable Perſonages; if you have your ſences about you, pray take heed how you buy it, for having caſually read it, I muſt ingeniouſly tell you that I found a <hi>Chaos</hi> of non<g ref="char:EOLhyphen"/>ſence in it.</p>
+               <q>
+                  <l>Who writ the <hi>New-Exchange,</hi> I dare proclaime,</l>
+                  <l>To be no Foole, but yet a Knave in graine.</l>
+                  <l>Who writ the last, to vindicate their fame,</l>
+                  <l>Speakes himſelfe fully, <hi>T. B.</hi> being his Name;</l>
+                  <l>For if <hi>Tom Block-head</hi> you will underſtand,</l>
+                  <l>By <hi>T.</hi> and <hi>B.</hi> loc here 'tis underhand.</l>
+               </q>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
